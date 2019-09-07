@@ -1,0 +1,122 @@
+Station,Column1,Line,Grade,Opened[5],Ridership (2016[6]Avg. Weekday),Platforms,Parking Spaces[7],Terminal within fare-paid area,Transfers[8],Accessible,Latitude,Longitude
+Finch,"Station, Toronto",TTC - Line 1 - Yonge-University-Spadina line.svg,Underground,1974,"85,720",Centre,"3,214",Yes,BSicon BUS1.svg TTC buses,Yes,43.780374,-79.414666
+,Station,,,,,,,,GO Transit logo.svg Finch Bus,,43.768687,-79.412546
+,Station,,,,,,,,Terminal[show],,43.762035,-79.411897
+North York Centre,"Station, Toronto",TTC - Line 1 - Yonge-University-Spadina line.svg,Underground,1987,"29,120",Side,0,No,BSicon BUS1.svg TTC buses,Yes,43.744938,-79.406724
+Sheppard–Yonge,"Station, Toronto",TTC - Line 1 - Yonge-University-Spadina line.svg TTC - Line 4 - Sheppard line.svg,Underground,"1974, 2002","120,500","Centre, Side",0,Yes,BSicon BUS1.svg TTC buses,Yes,43.725388,-79.402491
+,Station,,,,,(roughed-in SS),,,,,43.704966,-79.398985
+York Mills,"Station, Toronto",TTC - Line 1 - Yonge-University-Spadina line.svg,Underground,1973,"21,780",Centre,260,Yes,BSicon BUS1.svg TTC buses,Yes,43.697837,-79.396647
+,Station,,,,,,,,GO bus symbol.svg GO Transit bus services,,43.68785,-79.391929
+Lawrence,"Station, Toronto",TTC - Line 1 - Yonge-University-Spadina line.svg,Underground,1973,"22,340",Centre,0,Yes,BSicon BUS1.svg TTC buses,No,43.68229,-79.390774
+Eglinton,"Station, Toronto",TTC - Line 1 - Yonge-University-Spadina line.svg,Underground,1954,"75,050",Centre,0,Yes,BSicon BUS1.svg TTC buses,Yes,43.67717,-79.388557
+Davisville,"Station, Toronto",TTC - Line 1 - Yonge-University-Spadina line.svg,Surface,1954,"24,300",Side,0,Yes,BSicon BUS1.svg TTC buses,Yes,43.670622,-79.38653
+St. Clair,"Station, Toronto",TTC - Line 1 - Yonge-University-Spadina line.svg,Underground,1954,"34,610",Side,0,Yes,BSicon CLRV.svg TTC streetcars,Yes,43.665653,-79.383804
+,Station,,,,,,,,BSicon BUS1.svg TTC buses,,43.661325,-79.383075
+Summerhill,"Station, Toronto",TTC - Line 1 - Yonge-University-Spadina line.svg,Underground,1954,"6,280",Side,0,No,BSicon BUS1.svg TTC buses,No,43.656281,-79.380459
+Rosedale,"Station, Toronto",TTC - Line 1 - Yonge-University-Spadina line.svg,Surface,1954,"6,010",Side,0,Yes,BSicon BUS1.svg TTC buses,No,43.652397,-79.379223
+Bloor–Yonge,"Station, Toronto",TTC - Line 1 - Yonge-University-Spadina line.svg TTC - Line 2 - Bloor-Danforth line.svg,Underground,"1954, 1966","391,490","Side, Centre",0,No,BSicon BUS1.svg TTC buses,Yes,43.649152,-79.37786
+Wellesley,"Station, Toronto",TTC - Line 1 - Yonge-University-Spadina line.svg,Underground,1954,"22,280",Side,0,Yes,BSicon BUS1.svg TTC buses,No,43.645207,-79.380588
+College,"Station, Toronto",TTC - Line 1 - Yonge-University-Spadina line.svg,Underground,1954,"47,600",Side,0,No,BSicon CLRV.svg TTC streetcars,No,43.647657,-79.384808
+,Station,,,,,,,,BSicon BUS1.svg TTC buses,,43.650614,-79.386831
+Dundas,"Station, Toronto",TTC - Line 1 - Yonge-University-Spadina line.svg,Underground,1954,"77,200",Side,0,No,BSicon CLRV.svg TTC sreetcars,Yes,43.654831,-79.388348
+,Station,,,,,,,,BSicon BUS1.svg TTC buses,,43.65988,-79.390477
+,Station,,,,,,,,Bus interchange Toronto Coach,,43.667142,-79.393587
+,Station,,,,,,,,Terminal[show],,43.668274,-79.39979
+Queen,"Station, Toronto",TTC - Line 1 - Yonge-University-Spadina line.svg,Underground,1954,"45,260",Side,0,No,BSicon CLRV.svg TTC streetcars,Yes,43.667353,-79.403835
+,Station,,,,,,,,BSicon BUS1.svg TTC buses,,43.674855,-79.407081
+King,"Station, Toronto",TTC - Line 1 - Yonge-University-Spadina line.svg,Underground,1954,"60,930",Side,0,No,BSicon CLRV.svg TTC streetcars,No,43.684361,-79.415703
+,Station,,,,,,,,BSicon BUS1.svg TTC buses,,43.69937,-79.436147
+Union,"Station, Toronto",TTC - Line 1 - Yonge-University-Spadina line.svg,Underground,1954,"118,450","Side, one-sided Centre",0,Yes,BSicon CLRV.svg TTC streetcars,Yes,43.709481,-79.441199
+,Station,,,,,,,,BSicon BUS1.svg TTC buses,,43.71586,-79.444132
+,Station,,,,,,,,GO Transit logo.svg Union Station[show],,43.725609,-79.448555
+,Station,,,,,,,,GO bus symbol.svg GO Transit bus services,,43.734686,-79.450941
+St. Andrew,"Station, Toronto",TTC - Line 1 - Yonge-University-Spadina line.svg,Underground,1963,"60,900",Centre,0,No,BSicon CLRV.svg TTC streetcars,Yes,43.749691,-79.461899
+,Station,,,,,,,,BSicon BUS1.svg TTC buses,,43.75358,-79.478814
+Osgoode,"Station, Toronto",TTC - Line 1 - Yonge-University-Spadina line.svg,Underground,1963,"25,580",Centre,0,No,BSicon CLRV.svg TTC streetcars,Yes,43.780374,-79.414666
+,Station,,,,,,,,BSicon BUS1.svg TTC buses,,43.773909,-79.499827
+St. Patrick,"Station, Toronto",TTC - Line 1 - Yonge-University-Spadina line.svg,Underground,1963,"29,700",Centre,0,No,BSicon CLRV.svg TTC streetcars,No,43.777169,-79.510329
+,Station,,,,,,,,BSicon BUS1.svg TTC buses,,43.783215,-79.523748
+Queen's Park,"Station, Toronto",TTC - Line 1 - Yonge-University-Spadina line.svg,Underground,1963,"45,460",Centre,0,No,BSicon CLRV.svg TTC streetcars,Yes,43.793488,-79.527992
+,Station,,,,,,,,BSicon BUS1.svg TTC buses,,43.63779,-79.535407
+Museum,"Station, Toronto",TTC - Line 1 - Yonge-University-Spadina line.svg,Underground,1963,"9,680",Centre,0,No,BSicon BUS1.svg TTC buses,No,43.645355,-79.524467
+St. George,"Station, Toronto",TTC - Line 1 - Yonge-University-Spadina line.svg TTC - Line 2 - Bloor-Danforth line.svg,Underground,"1963, 1966","259,310","Centre, Centre",0,Yes,BSicon BUS1.svg TTC buses,Yes,43.648177,-79.511264
+Spadina,"Station, Toronto",TTC - Line 1 - Yonge-University-Spadina line.svg TTC - Line 2 - Bloor-Danforth line.svg,Underground,"1978, 1966","42,300","Side, Side",0,Yes,BSicon CLRV.svg TTC streetcars,Yes TTC - Line 2 - Bloor-Danforth line.svg,43.650101,-79.495132
+,Station,,,,,,,,BSicon BUS1.svg TTC buses,No TTC - Line 1 - Yonge-University-Spadina line.svg,43.65001,-79.483718
+Dupont,"Station, Toronto",TTC - Line 1 - Yonge-University-Spadina line.svg,Underground,1978,"14,770",Side,0,No,BSicon BUS1.svg TTC buses,No,43.651691,-79.475971
+St. Clair West,"Station, Toronto",TTC - Line 1 - Yonge-University-Spadina line.svg,Underground,1978,"25,820",Side,0,No,BSicon CLRV.svg TTC streetcars ,Yes,43.653858,-79.46682
+,Station,,,,,,,,BSicon BUS1.svg TTC buses,,43.655624,-79.459282
+Eglinton West,"Station, Toronto",TTC - Line 1 - Yonge-University-Spadina line.svg,Underground/Surface,1978,"16,210",Side,0,Yes,BSicon BUS1.svg TTC buses,Yes,43.656909,-79.453152
+Glencairn,"Station, Toronto",TTC - Line 1 - Yonge-University-Spadina line.svg,Surface,1978,"6,040",Centre,0,No,BSicon BUS1.svg TTC buses,No,43.659149,-79.443177
+Lawrence West,"Station, Toronto",TTC - Line 1 - Yonge-University-Spadina line.svg,Surface,1978,"17,630",Centre,0,Yes,BSicon BUS1.svg TTC buses,Yes,43.66005,-79.435403
+Yorkdale,"Station, Toronto",TTC - Line 1 - Yonge-University-Spadina line.svg,Surface,1978,"27,930",Centre,0,No,BSicon BUS1.svg TTC buses,No,43.662372,-79.426146
+,Station,,,,,,,,GO Transit logo.svg Yorkdale Bus,,43.664109,-79.418359
+,Station,,,,,,,,Terminal[show],,43.666001,-79.411215
+Wilson,"Station, Toronto",TTC - Line 1 - Yonge-University-Spadina line.svg,Surface,1978,"23,510",Centre,"2,284",Yes,BSicon BUS1.svg TTC buses,No,43.670147,-79.390695
+Sheppard West,"Station, Toronto",TTC - Line 1 - Yonge-University-Spadina line.svg,Underground,1996,"40,640",Centre,641,Yes,BSicon BUS1.svg TTC buses,Yes,43.672167,-79.376432
+,Station,,,,,,,,York Region Transit logo.svg York Region Transit,,43.673605,-79.368819
+Downsview Park,"Station, Toronto",TTC - Line 1 - Yonge-University-Spadina line.svg,Underground,2017,N/A,Centre,0,No,BSicon BUS1.svg TTC buses,Yes,43.67691,-79.358185
+,Station,,,,,,,,GO Transit logo.svg GO Barrie logo.svg Barrie,,43.678236,-79.352455
+Finch West,"Station, Toronto",TTC - Line 1 - Yonge-University-Spadina line.svg,Underground,2017,N/A,Centre,358[9],Yes,BSicon BUS1.svg TTC buses,Yes,43.680084,-79.34462
+York University,"Station, Toronto",TTC - Line 1 - Yonge-University-Spadina line.svg,Underground,2017,N/A,Centre,0,No,BSicon BUS1.svg TTC buses,Yes,43.680982,-79.337835
+,Station,,,,,,,,GO bus symbol.svg GO Transit bus services,,43.682579,-79.330421
+,Station,,,,,,,,ZUM logo.svg Züm,,43.684367,-79.323113
+Pioneer Village,"Station, Toronto",TTC - Line 1 - Yonge-University-Spadina line.svg,Underground,2017,N/A,Centre,"1,850[10]",Yes,BSicon BUS1.svg TTC buses,Yes,43.686408,-79.312638
+,Station,,,,,,,,York Region Transit logo.svg York Region Transit,,43.689022,-79.301686
+Highway 407,"Station, Toronto",TTC - Line 1 - Yonge-University-Spadina line.svg,Underground,2017,N/A,Centre,614[11],No,York Region Transit logo.svg York Region Transit,Yes,43.694291,-79.288964
+,Station,,,,,,,,GO bus symbol.svg GO Transit bus services,,43.711021,-79.280045
+Vaughan Metro Centre,"Station, Toronto",TTC - Line 1 - Yonge-University-Spadina line.svg,Underground,2017,N/A,Centre,900*,No,York Region Transit logo.svg York Region Transit,Yes,43.732504,-79.263632
+,Station,,,,,,,,Viva orange.svg Viva Orange,,43.750526,-79.270305
+,Station,,,,,,,,ZUM logo.svg Züm,,43.766964,-79.277199
+Kipling,"Station, Toronto",TTC - Line 2 - Bloor-Danforth line.svg,Surface,1980,"49,870",Centre,"1,488",Yes,BSicon BUS1.svg TTC buses,Yes,43.770401,-79.272179
+,Station,,,,,,,,GO Transit logo.svg GO Milton logo.svg Milton,,43.774412,-79.257983
+Islington,"Station, Toronto",TTC - Line 2 - Bloor-Danforth line.svg,Underground,1968,"40,250",Centre,"1,282",Yes,BSicon BUS1.svg TTC buses,No,43.774931,-79.251818
+,Station,,,,,,,,MiWay,,43.766874,-79.386304
+Royal York,"Station, Toronto",TTC - Line 2 - Bloor-Danforth line.svg,Underground,1968,"23,050",Side,0,Yes,BSicon BUS1.svg TTC buses,No,43.769067,-79.375898
+Old Mill,"Station, Toronto",TTC - Line 2 - Bloor-Danforth line.svg,Underground/Elevated,1968,"7,350",Side,0,No,BSicon BUS1.svg TTC buses,No,43.771296,-79.364835
+Jane,"Station, Toronto",TTC - Line 2 - Bloor-Danforth line.svg,Underground,1968,"19,860",Side,0,No,BSicon BUS1.svg TTC buses,Yes,43.744938,-79.406724
+Runnymede,"Station, Toronto",TTC - Line 2 - Bloor-Danforth line.svg,Underground,1968,"19,530",Side,0,No,BSicon BUS1.svg TTC buses,No,,
+High Park,"Station, Toronto",TTC - Line 2 - Bloor-Danforth line.svg,Underground/Surface,1968,"10,510",Side,0,No,BSicon BUS1.svg TTC buses,No,,
+Keele,"Station, Toronto",TTC - Line 2 - Bloor-Danforth line.svg,Elevated,1966,"14,670",Side,221,Yes,BSicon BUS1.svg TTC buses,No,,
+Dundas West,"Station, Toronto",TTC - Line 2 - Bloor-Danforth line.svg,Underground,1966,"28,680",Side,0,Yes,BSicon CLRV.svg TTC streetcars,Yes,,
+,Station,,,,,,,,BSicon BUS1.svg TTC buses,,,
+,Station,,,,,,,,GO Transit logo.svg GO Kitchener logo.svg Kitchener,,,
+,Station,,,,,,,,UP Express logo.svg Union Pearson Express,,,
+Lansdowne,"Station, Toronto",TTC - Line 2 - Bloor-Danforth line.svg,Underground,1966,"17,590",Side,0,No,BSicon BUS1.svg TTC buses,No,,
+Dufferin,"Station, Toronto",TTC - Line 2 - Bloor-Danforth line.svg,Underground,1966,"31,220",Side,0,No,BSicon BUS1.svg TTC buses,Yes,,
+Ossington,"Station, Toronto",TTC - Line 2 - Bloor-Danforth line.svg,Underground,1966,"25,920",Side,0,Yes,BSicon BUS1.svg TTC buses,Yes,,
+Christie,"Station, Toronto",TTC - Line 2 - Bloor-Danforth line.svg,Underground,1966,"14,740",Side,0,No,BSicon BUS1.svg TTC buses,No,,
+Bathurst,"Station, Toronto",TTC - Line 2 - Bloor-Danforth line.svg,Underground,1966,"29,320",Side,0,Yes,BSicon CLRV.svg TTC streetcars,Yes,,
+,Station,,,,,,,,BSicon BUS1.svg TTC buses,,,
+Bay,"Station, Toronto",TTC - Line 2 - Bloor-Danforth line.svg,Underground,1966,"27,090",Centre,0,No,BSicon BUS1.svg TTC buses,No,,
+Sherbourne,"Station, Toronto",TTC - Line 2 - Bloor-Danforth line.svg,Underground,1966,"25,030",Side,0,No,BSicon BUS1.svg TTC buses,No,,
+Castle Frank,"Station, Toronto",TTC - Line 2 - Bloor-Danforth line.svg,Underground,1966,"8,520",Side,0,Yes,BSicon BUS1.svg TTC buses,No,,
+Broadview,"Station, Toronto",TTC - Line 2 - Bloor-Danforth line.svg,Underground,1966,"29,800",Side,0,Yes,BSicon CLRV.svg TTC streetcars,Yes,,
+,Station,,,,,,,,BSicon BUS1.svg TTC buses,,,
+Chester,"Station, Toronto",TTC - Line 2 - Bloor-Danforth line.svg,Underground,1966,"6,690",Side,0,No,None,No,,
+Pape,"Station, Toronto",TTC - Line 2 - Bloor-Danforth line.svg,Underground,1966,"26,280",Side,0,Yes,BSicon BUS1.svg TTC buses,Yes,,
+Donlands,"Station, Toronto",TTC - Line 2 - Bloor-Danforth line.svg,Underground,1966,"10,080",Side,0,Yes,BSicon BUS1.svg TTC buses,No,,
+Greenwood,"Station, Toronto",TTC - Line 2 - Bloor-Danforth line.svg,Underground,1966,"10,390",Side,0,Yes,BSicon BUS1.svg TTC buses,No,,
+Coxwell,"Station, Toronto",TTC - Line 2 - Bloor-Danforth line.svg,Underground,1966,"15,620",Side,0,No[12],BSicon BUS1.svg TTC buses,Yes,,
+Woodbine,"Station, Toronto",TTC - Line 2 - Bloor-Danforth line.svg,Underground,1966,"15,250",Side,0,Yes,BSicon BUS1.svg TTC buses,Yes,,
+Main Street,"Station, Toronto",TTC - Line 2 - Bloor-Danforth line.svg,Underground,1968,"20,930",Side,0,Yes,BSicon CLRV.svg TTC streetcars,Yes,,
+,Station,,,,,,,,BSicon BUS1.svg TTC buses,,,
+,Station,,,,,,,,GO Transit logo.svg GO Lakeshore East logo.svg Lakeshore East,,,
+,Station,,,,,,,,GO Transit logo.svg GO Stouffville logo.svg Stouffville,,,
+Victoria Park,"Station, Toronto",TTC - Line 2 - Bloor-Danforth line.svg,Surface,1968,"31,460",Side,270,Yes,BSicon BUS1.svg TTC buses,Yes,,
+Warden,"Station, Toronto",TTC - Line 2 - Bloor-Danforth line.svg,Surface,1968,"29,500",Centre,"1,092",Yes,BSicon BUS1.svg TTC buses,No,,
+Kennedy,"Station, Toronto",TTC - Line 2 - Bloor-Danforth line.svg TTC - Line 3 - Scarborough RT line.svg,Underground/Elevated,"1980, 1985","101,030","Centre, Side (quasi-SS)","1,138",Yes,BSicon BUS1.svg TTC buses,Yes,,
+,Station,,,,,,,,GO Transit logo.svg GO Stouffville logo.svg Stouffville,,,
+Lawrence East,"Station, Toronto",TTC - Line 3 - Scarborough RT line.svg,Surface,1985,"7,850",Side,90,Yes,BSicon BUS1.svg TTC buses,No,,
+Ellesmere,"Station, Toronto",TTC - Line 3 - Scarborough RT line.svg,Surface,1985,"1,760",Side,68,No,BSicon BUS1.svg TTC buses,No,,
+Midland,"Station, Toronto",TTC - Line 3 - Scarborough RT line.svg,Elevated,1985,"2,370",Side,0,No,BSicon BUS1.svg TTC buses,No,,
+Scarborough Centre,"Station, Toronto",TTC - Line 3 - Scarborough RT line.svg,Elevated,1985,"22,830",Side,0,Yes,BSicon BUS1.svg TTC buses,Yes,,
+,Station,,,,,,,,GO Transit logo.svg Scarborough,,,
+,Station,,,,,,,,Centre Bus Terminal[show],,,
+McCowan,"Station, Toronto",TTC - Line 3 - Scarborough RT line.svg,Elevated,1985,"3,710",Side,0,No,BSicon BUS1.svg TTC buses,No,,
+Bayview,"Station, Toronto",TTC - Line 4 - Sheppard line.svg,Underground,2002,"8,410",Centre,0,No,BSicon BUS1.svg TTC buses,Yes,,
+Bessarion,"Station, Toronto",TTC - Line 4 - Sheppard line.svg,Underground,2002,"2,880",Centre,0,No,BSicon BUS1.svg TTC buses,Yes,,
+Leslie,"Station, Toronto",TTC - Line 4 - Sheppard line.svg,Underground,2002,"6,200",Centre,102,Yes,BSicon BUS1.svg TTC buses,Yes,,
+,Station,,,,,,,,GO Transit logo.svg GO Richmond Hill logo.svg Richmond Hill,,,
+Don Mills,"Station, Toronto",TTC - Line 4 - Sheppard line.svg,Underground,2002,"32,310",Centre,366,Yes,BSicon BUS1.svg TTC buses,Yes,,
+,,,,,,,,,York Region Transit logo.svg York Region Transit,,,
+,,,,,,,,,Viva green.svg Viva Green,,,
